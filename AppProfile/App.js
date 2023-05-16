@@ -9,8 +9,6 @@ const App = () => {
       <View>
         <Profile />
         <Post />
-        <Post />
-        {/* Adicione quantas postagens desejar */}
       </View>
     </ScrollView>
   );
